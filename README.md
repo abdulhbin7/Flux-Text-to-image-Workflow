@@ -4,6 +4,7 @@
 
 ## 📝 Overview
 This repository contains a robust and scalable **ComfyUI workflow** engineered for the **FLUX.1** model. It provides precise control over model guidance, multi-LoRA integration, and automated resolution management.
+<img width="1938" height="944" alt="image" src="https://github.com/user-attachments/assets/321f92b6-7985-420f-a080-e0c231d63f06" />
 
 ## 🛠️ Key Technical Features
 * **Modular LoRA Stacking:** Supports simultaneous loading of multiple LoRA weights with independent strength controls.
